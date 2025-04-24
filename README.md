@@ -1,17 +1,17 @@
 # Designing_For_User_Experience-Assignment
 My repository that is responsible for my module assignment which includes a wire frame for the Bit Bay website.
 
-# 'yourwebsitename' 
+# 'BitBay' 
 
 
-[Link to live site here- 'this appears as lint to click']( https://'yourlivelink.com')
+[Link to live site here- 'this appears as link to click']( https://'yourlivelink.com')
 
 ![Am I responsive image](can include a path website image file stored in assets)
 
 ## Introduction
 
 
-' Type your introduction here '
+' I am working on devolping an auction website wireframe called BitBay. I have previously developed the wireframes and now work to coding it into html and making the actual webpage. my wireframe consist of 3 main pages - the homepage, bidding page, and checkout page. By the end of my project i hope to have a completed website for BitBay which is functional and reliable to the user needs. '
 
 ## User Experience (UX)
 
