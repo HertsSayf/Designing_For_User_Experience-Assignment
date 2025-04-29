@@ -4,7 +4,7 @@ My repository that is responsible for my module assignment which includes a wire
 # 'BitBay' 
 
 
-[Link to live site here-](file:///C:/Users/sbina/OneDrive%20-%20University%20of%20Hertfordshire/html/Index.html)
+[Link to live site here-](https://herts.instructure.com/courses/118814/pages/extension-for-lab-push-to-github?module_item_id=4527868)
 
 ![Am I responsive image](can include a path website image file stored in assets)
 
