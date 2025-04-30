@@ -295,3 +295,34 @@ footer {
     border: none;
     margin-top: 1rem;
 }
+
+/* Bootstrap Overrides for my created style */
+.jumbotron {
+    background-color: #2a2a2a;
+    color: white;
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 30px 0;
+}
+
+.jumbotron h1 {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.container .row {
+    margin: 30px auto;
+    max-width: 1200px;
+}
+
+.col-sm-4 {
+    text-align: center;
+    padding: 15px;
+}
+
+.col-sm-4 h3 {
+    color: #2a2a2a;
+    font-weight: bold;
+    margin: 10px 0;
+    font-size: 18px;
+}
