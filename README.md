@@ -16,11 +16,33 @@ My repository that is responsible for my module assignment which includes a wire
 ## User Experience (UX)
 
 ### User Stories (US)
-'write your users stories/tasks here'
+'#### As a Buyer:
+Persona 1 
+Name: Alex
+Age: 22
+Occupation: Student/Part-time Developer
+Goals:
+- The system should  allow item browsing by category so users can quickly access relevant auctions.
 
-- **your persona1 story and tasks**
-    1. As a [persona], I [want to], [so that]
-        
+- I need to view detailed item  information in order to make informed bidding decisions
+
+- I want to place bids easily so I can participate  in auctions
+
+- I want to view the remaining time of auctions so I can plan my bidding.
+
+ #### As a Seller:
+Persona 2 
+Name: Linda
+Age: 43
+Occupation: Retired teacher/Small business owner
+Goals:
+- I want to be able to list up me vintage items for sale
+
+- I want the items to be presented attractively in order to get more  bids
+
+- I want clear pricing information so that the buyer will know the value of the product.
+'
+ 
     **Tasks**
 
   - 
