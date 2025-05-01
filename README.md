@@ -56,26 +56,34 @@ Tasks:
 - I want clear pricing information so that the buyer will know the value of the product.
 
 
-### Design Choices -'change as per your needs include old and revised wireframes '
+### Design Choices -
 
-![color pallette]('path to the image file for your colour pallet here')
+Colour Pallete:
+- Primary: `#6c5ce7` (purple) for buttons  and accents
 
-- I will be using ______  colour text against the ______background colours.
-  - 'you notes goes here '
+- Dark: `#2a2a2a` for headers and text
+
+- Light: `#eeeeee` for background
+
+- White: `#ffffff` for cards  and sections
 
   - **typography**
-  - your notes goes here
+  - Primary Font: Arial - gives a clean look and is reliable
+  - Headings - Bold styling for emphasis
+  - Buttons - All caps for clear CTAs - call to action
 
   - **Structure**
-    - 'notes on any templates or framework used'
+    - Layout - Consistent Header/Footer across all pages
+    - Custom CSS - For unique styling and ovverrides
+    - Framework - Bootstrap 3 for a grid layout to make website more appealing
 
   - **Imagery**
-    -  'notes on where you obtain the images for your website'
+    - I used the same images from my wireframe and put them into my code to show the products
 
   - **Wireframes**
-    - 'notes or why and what changes were made during revision'
+    - I made the website more simple looking with a more simple checkout page, this can be less confusing for the user also more user friendly.
+    - I added a different heading and footer with my navigation in the heading this may be more easy accesible for a user as they know it resides in the top right of the page
 
- ![View wireframes here]('path/link to the wireframes goes here')
 
 ## Development Process-  'finished product screenshots'
 
