@@ -6,7 +6,7 @@ My repository that is responsible for my module assignment which includes a wire
 
 [Link to live site here-](https://hertssayf.github.io/Designing_For_User_Experience-Assignment/)
 
-[[image](https://github.com/user-attachments/assets/f92aed88-813a-42e1-8acd-ae72cddcbd7e)
+![Am I responsive i![image](https://github.com/user-attachments/assets/f92aed88-813a-42e1-8acd-ae72cddcbd7e)
 mage] 
 
 "C:\Users\sbina\OneDrive - University of Hertfordshire\html\images"
