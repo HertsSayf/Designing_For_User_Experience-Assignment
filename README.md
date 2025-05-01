@@ -91,22 +91,24 @@ Colour Pallete:
 
 ### Features
 
--
+-My bootstrap feature
+![image](https://github.com/user-attachments/assets/b8da8786-6123-40d8-9e32-10080dd9cd06)
 
 ### navigation
 
-- 
+-![image](https://github.com/user-attachments/assets/c8a40363-ce94-4571-9aa8-7d4f5b038eb3)
+
 ### header
 
--
+-![image](https://github.com/user-attachments/assets/5db00b88-0c09-405e-af32-4d6e4cbb4c98)
 
-### webpage 1
+### webpage 1 Home Page
 
 - ![image](https://github.com/user-attachments/assets/ed423f4b-5f47-4d52-91b6-57151953435d)
 - ![image](https://github.com/user-attachments/assets/651a9e4e-b854-483d-a009-f04b0e4c2c15)
 
 
-### webpage 2
+### webpage 2 Product Page
 
 - 
 
@@ -116,20 +118,23 @@ Colour Pallete:
 
 ### Frameworks, Libraries & Programs Used
 
-- 
+- Used notepad++ to code all the different html files and my css stylesheet file
+- The following files:
+- index.html, product.html, checkout.html, styles.css
 
 ## Deployment & Local Development
 
 ### Deployment
 
-​- instruction goes here
+​- can deploy through github deployment
 
 ### Local Development
 
-- instruction goes here
-
+- deploy from one drive html folder includes all files and data
 
 ## Testing
+
+Used a editor on google that allows me to view the product at the same time and essentailly runs tests for each change i make.
 
 ### Automated Testing
 
@@ -148,35 +153,46 @@ Colour Pallete:
 - **Mobile Report**
 -include image/notes here
 
-#### Wave??
-
-- 
 
 ### Manual Testing
 
+Testing if code is writtin correctly
+
 #### Testing User Stories
 
-- notes goes here
+- tested if my goals were completed for the user stories
+- persona 1 was able to do all goals
+- persona 2 was able to d o most goals but unable to list/sell a product
 
 #### Full Testing
 
 Full testing was done on the following devices:
 
--
+-Laptop
+-Computer
 
 Full testing was done on the following browsers:
 
-- 
+- Google Chrome
+- Google
+- Microsoft Edge
+- Firefox
 
 #### Full Page Testing
 
 ### Bugs
 
+Had a bug where my page was unable to Load
+
 #### Solved bugs
 
+It turns out my page was uunable to load since my index.html file was named with a capital I after this small tweak it was fixed
+Had to also lowecase my css styles file aswell
 
 #### Known Bugs
 
+Unable to press view more and get directed to a product on the website
+Only one of my product the katana can be viewed/added to checkout at the moment
 
 ## Credits/ References 
 
