@@ -171,7 +171,7 @@ Testing if code is writtin correctly
 
 - tested if my goals were completed for the user stories
 - persona 1 was able to do all goals
-- persona 2 was able to d o most goals but unable to list/sell a product
+- persona 2 was able to do most goals but unable to list/sell a product
 
 #### Full Testing
 
