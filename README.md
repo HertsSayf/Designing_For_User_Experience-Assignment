@@ -17,9 +17,12 @@ My repository that is responsible for my module assignment which includes a wire
 
 ### User Stories (US)
 
-Persona 1 
+Persona 1
+
 Name: Alex
+
 Age: 22
+
 Occupation: Student/Part-time Developer
 
 Tasks:
@@ -33,8 +36,11 @@ Tasks:
 - I want to view the remaining time of auctions so I can plan my bidding.
 
 Persona 2 
+
 Name: Linda
+
 Age: 43
+
 Occupation: Retired teacher/Small business owner
 
 Tasks:
