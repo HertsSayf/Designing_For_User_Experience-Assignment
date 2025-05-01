@@ -4,7 +4,7 @@ My repository that is responsible for my module assignment which includes a wire
 # 'BitBay' 
 
 
-[Link to live site here-](https://hertssayf.github.io/Designing_For_User_Experience-Assignment/)
+[Link to live site here-]()
 
 ![Am I responsive image](can include a path website image file stored in assets)
 
