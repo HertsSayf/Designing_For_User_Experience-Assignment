@@ -159,10 +159,10 @@ Used a editor on google that allows me to view the product at the same time and 
 #### Lighthouse 
 
 - **Desktop Report**
--include image/notes here
-- **Mobile Report**
--include image/notes here
+-![image](https://github.com/user-attachments/assets/3d9b3464-7e35-408e-bac4-e45564cfe120)
 
+- **Mobile Report**
+-![image](https://github.com/user-attachments/assets/8e95db7e-5ef9-491f-9afc-05f702000660)
 
 ### Manual Testing
 
