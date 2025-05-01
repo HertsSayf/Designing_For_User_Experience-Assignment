@@ -110,17 +110,25 @@ Colour Pallete:
 
 ### webpage 2 Product Page
 
-- 
+- ![image](https://github.com/user-attachments/assets/c20c1611-d2b2-4d1c-a2e2-8a71e05aa8c2)
+- ![image](https://github.com/user-attachments/assets/73f20547-5b7f-4340-9667-2cf49937f9be)
+
+### webpage 3 Checkout Page
+
+-![image](https://github.com/user-attachments/assets/a81930a4-4eb3-4f24-b648-7753b6be5828)
+
+-![image](https://github.com/user-attachments/assets/37f9eb0b-dea8-4897-96f9-94cbc4657a94)
 
 ### Footer
 
--
+-![image](https://github.com/user-attachments/assets/328127b7-af8a-4c97-8a52-b27e495b982a)
 
 ### Frameworks, Libraries & Programs Used
 
 - Used notepad++ to code all the different html files and my css stylesheet file
 - The following files:
 - index.html, product.html, checkout.html, styles.css
+- ![image](https://github.com/user-attachments/assets/7cbbb407-76ec-4522-b5c7-effae918bd09)
 
 ## Deployment & Local Development
 
@@ -131,6 +139,7 @@ Colour Pallete:
 ### Local Development
 
 - deploy from one drive html folder includes all files and data
+- need to double click the index.html file
 
 ## Testing
 
