@@ -22,7 +22,7 @@ header {
 }
 
 .logo {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     color: #6c5ce7;
 }
@@ -33,7 +33,7 @@ nav ul {
 }
 
 nav ul li {
-    margin-left: 1rem;
+    margin-left: 2.5rem;
 }
 
 nav ul li a {
@@ -52,12 +52,12 @@ nav ul li a:hover {
 }
 
 main {
-    padding: 2rem;
+    padding: 10rem;
 }
 
 .search-section {
     text-align: center;
-    margin: 2rem 0;
+    margin: -2rem 0;
 }
 
 .search-section input {
