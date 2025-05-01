@@ -149,11 +149,12 @@ Used a editor on google that allows me to view the product at the same time and 
 
 #### W3C Validator
 
-- 'include images'
+- '![image](https://github.com/user-attachments/assets/0917445f-76ce-4ea6-b3df-2310eaaac557)
+'6 errors 1 warning
 
 #### CSS Jigsaw validator
 
-- 'include images here'
+- '![image](https://github.com/user-attachments/assets/f3099394-8eae-4aa9-b4a9-5dafdd0a34be)
 
 #### Lighthouse 
 
