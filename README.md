@@ -6,7 +6,9 @@ My repository that is responsible for my module assignment which includes a wire
 
 [Link to live site here-](https://hertssayf.github.io/Designing_For_User_Experience-Assignment/)
 
-![Am I responsive image](can include a path website image file stored in assets)
+![Am I responsive i![image](https://github.com/user-attachments/assets/f92aed88-813a-42e1-8acd-ae72cddcbd7e)
+mage] 
+"C:\Users\sbina\OneDrive - University of Hertfordshire\html\images"( path website image file stored in assets)
 
 ## Introduction
 
